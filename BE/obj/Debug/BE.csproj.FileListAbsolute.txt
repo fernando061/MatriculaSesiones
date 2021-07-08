@@ -1,0 +1,12 @@
+C:\Users\Nando\source\repos\SanMarcos\BE\bin\Debug\BE.dll
+C:\Users\Nando\source\repos\SanMarcos\BE\bin\Debug\BE.pdb
+C:\Users\Nando\source\repos\SanMarcos\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\Nando\source\repos\SanMarcos\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Nando\source\repos\SanMarcos\BE\obj\Debug\BE.dll
+C:\Users\Nando\source\repos\SanMarcos\BE\obj\Debug\BE.pdb
+I:\aea\SanMarcos\BE\bin\Debug\BE.dll
+I:\aea\SanMarcos\BE\bin\Debug\BE.pdb
+I:\aea\SanMarcos\BE\obj\Debug\BE.csprojAssemblyReference.cache
+I:\aea\SanMarcos\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+I:\aea\SanMarcos\BE\obj\Debug\BE.dll
+I:\aea\SanMarcos\BE\obj\Debug\BE.pdb

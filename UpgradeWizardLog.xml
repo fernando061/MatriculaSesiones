@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\ProyectoSanMarcos.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\App.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\App.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\App.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\App.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\App.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\App.config" />
+  <event action="Analyze" type="Success" name="App.config" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\App.config" />
+  <event action="Analyze" type="Success" name="FormAlumnos.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\Alumnos\FormAlumnos.resx" />
+  <event action="Analyze" type="Success" name="FormBienvenida.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\Bienvenida\FormBienvenida.resx" />
+  <event action="Analyze" type="Success" name="FormCusos.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\Cursos\FormCusos.resx" />
+  <event action="Analyze" type="Success" name="Login.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\Login\Login.resx" />
+  <event action="Analyze" type="Success" name="FormMatricula.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\Matriculas\FormMatricula.resx" />
+  <event action="Analyze" type="Success" name="FormMenuPrincipal.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\MenuPrincipal\FormMenuPrincipal.resx" />
+  <event action="Analyze" type="Success" name="FormProfesor.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\MenuPrincipal\FormProfesor.resx" />
+  <event action="Analyze" type="Success" name="FormReportAlumno.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\MenuPrincipal\FormReportAlumno.resx" />
+  <event action="Analyze" type="Success" name="FormReportes.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\MenuPrincipal\FormReportes.resx" />
+  <event action="Analyze" type="Success" name="FormRProfesores.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\MenuPrincipal\FormRProfesores.resx" />
+  <event action="Analyze" type="Success" name="FormUsuarios.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\MenuPrincipal\FormUsuarios.resx" />
+  <event action="Analyze" type="Success" name="ReporteAlumnos.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\MenuPrincipal\ReporteAlumnos.resx" />
+  <event action="Analyze" type="Success" name="FormProfesores.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Formularios\Profesores\FormProfesores.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\packages.config" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="ProyectoSanMarcos" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\ProyectoSanMarcos.csproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Nando\source\repos\SanMarcos\BE\BE.csproj" />
+  <event action="Analyze" type="Success" name="BE" path="C:\Users\Nando\source\repos\SanMarcos\BE\BE.csproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Nando\source\repos\SanMarcos\DB\DB.csproj" />
+  <event action="Analyze" type="Success" name="DB" path="C:\Users\Nando\source\repos\SanMarcos\DB\DB.csproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Nando\source\repos\SanMarcos\BL\BL.csproj" />
+  <event action="Analyze" type="Success" name="BL" path="C:\Users\Nando\source\repos\SanMarcos\BL\BL.csproj" />
+  <event action="Analyze" type="Success" name="SanMarcos" path="C:\Users\Nando\source\repos\SanMarcos\SanMarcos.sln" />
+  <event action="Backup" type="Success" name="ProyectoSanMarcos" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\ProyectoSanMarcos.csproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\ProyectoSanMarcos.csproj" />
+  <event action="Upgrade" type="Success" name="ProyectoSanMarcos" path="C:\Users\Nando\source\repos\SanMarcos\ProyectoSanMarcos\ProyectoSanMarcos.csproj" />
+  <event action="Upgrade" type="Success" name="SanMarcos" path="C:\Users\Nando\source\repos\SanMarcos\SanMarcos.sln" />
+</log>
